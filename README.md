@@ -116,6 +116,7 @@
 <div align="center">
   
 図1　損失に関する学習曲線
+![learning curve](https://github.com/lychee1223/NovelAnalysisByNER/assets/110546438/9e207bf3-6458-4f93-b78e-56f15b06f687)
 
 </div>
 
