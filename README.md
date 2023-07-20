@@ -328,5 +328,7 @@
 # 6．参考文献
 1. 近江崇宏，金田健太郎，森長誠，江間見亜利．BERTによる自然言語処理入門 -Transformersを使った実践プログラミング-，オーム社，pp.105-142，2021．
 1. 近江崇宏．Wikipediaを用いた日本語の固有表現抽出のデータセットの構築，言語処理学会第27回年次大会発表論文集，pp.350-352，2021．https://anlp.jp/proceedings/annual_meeting/2021/pdf_dir/P2-7.pdf
-1. https://huggingface.co/cl-tohoku/bert-base-japanese-whole-word-masking
-1. https://github.com/stockmarkteam/ner-wikipedia-dataset
+1. 東北大学，自然言語処理グループ．cl-tohoku/bert-base-japanese-whole-word-masking．https://huggingface.co/cl-tohoku/bert-base-japanese-whole-word-masking
+1. ストックマーク株式会社．stockmarkteam/ner-wikipedia-dataset．https://github.com/stockmarkteam/ner-wikipedia-dataset
+1. 宮沢賢治．『銀河鉄道の夜』，新潮社，1989．青空文庫．https://www.aozora.gr.jp/cards/000081/card456.html
+
