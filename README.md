@@ -1,13 +1,12 @@
 # BERTによる固有表現抽出を用いた小説の概要分析
-> 本プログラムはjupyterまたはGoogle Colaboratory上で動作します．
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/lychee1223/NovelAnalysisByNER/blob/main/ner.ipynb)
 
-必要なライブラリは以下の通りです．その他基本的なライブラリは適宜インストールをお願いします．
- -  tqdm
- -  pandas
- -  transformers 4.21.2
- -  fugashi 1.1.2
- -  ipadic 1.0.0
- -  torch
+### Set up
+本リポジトリではpoetryでライブラリの管理を行っています．以下のコマンドを実行し，インストールをお願いします．
+```
+curl -sSL https://install.python-poetry.org | python -
+poetry install
+```
 
 # 1．目的
 　小説において，登場人物や舞台はその内容を左右する重要な要素である．そして，一般的にこれらの要素は人名や地名などの固有表現であることが多い．
