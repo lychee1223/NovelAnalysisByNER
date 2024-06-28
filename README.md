@@ -1,6 +1,5 @@
-# BERTによる固有表現抽出を用いた小説の概要分析
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/lychee1223/NovelAnalysisByNER/blob/main/ner.ipynb)
-
+# BERTによる固有表現抽出を用いた小説の概要分析
 ### Set up
 本リポジトリではpoetryでライブラリの管理を行っています．以下のコマンドを実行し，適宜インストールをお願いします．
 ```
